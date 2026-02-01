@@ -1,0 +1,2 @@
+# newavdrepo
+practise lecture 
